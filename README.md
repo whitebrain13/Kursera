@@ -1,2 +1,2 @@
-# Kursera
-Cuma latihan saja
+# Kursera sera
+Cuma latihan saja koq
